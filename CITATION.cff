@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: Australian Commercial Finance Glossary
+message: If you use this glossary, please cite it using this metadata.
+type: dataset
+authors:
+  - family-names: Popadalis
+    given-names: George
+    affiliation: Black Mountain Financial
+url: https://github.com/gpopadalis87/australian-commercial-finance-glossary
+repository-code: https://github.com/gpopadalis87/australian-commercial-finance-glossary
+version: 1.0.0
+date-released: 2026-10-10
+license: CC-BY-4.0
